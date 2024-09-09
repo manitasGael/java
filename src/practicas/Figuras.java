@@ -20,6 +20,7 @@ public class Figuras {
 			System.out.println("9. FLECHA    ");
 			System.out.println("0. SALIR    ");
 			System.out.println("Elige Opción??    ");
+			
 			op = in.nextInt();
 			switch (op) {
 			case 1:
